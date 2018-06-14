@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 20px;
+  background-color: #d3d3d3;
+}
+
+.button {
+  text-decoration: none;
+  margin: 20px;
+  color: #343a40;
+}
+
+.controls {
+  margin: 10px 0;
+}
+
+.controls .button {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.stopwatch {
+  font-size: 40px;
+}
+
+ul.results {
+  list-style: none;
+  padding-left: 0;
+  border: 1px solid #969696;
+  width: 50%;
+  margin: 0 auto;
+}
+
+
+
+.list {
+  margin-top: 50px;
+}
